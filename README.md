@@ -1,1 +1,1 @@
-This repository contains codes from Kaggle.
+This repository contains codes from the Kaggle competitions.
